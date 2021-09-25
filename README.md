@@ -5,6 +5,5 @@ Crashes various Java decompilers
 
 ## Vulnerable decompilers:
 
-**- JD-GUI**
-
+**- JD-GUI**<br>
 **- Luyten**
